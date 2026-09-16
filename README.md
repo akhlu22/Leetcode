@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/akhlu22/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/akhlu22/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0561-array-partition](https://github.com/akhlu22/Leetcode/tree/master/0561-array-partition) |
 | [1301-number-of-paths-with-max-score](https://github.com/akhlu22/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
@@ -41,4 +42,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/akhlu22/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/akhlu22/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/akhlu22/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
