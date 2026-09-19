@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akhlu22/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/akhlu22/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akhlu22/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0561-array-partition](https://github.com/akhlu22/Leetcode/tree/master/0561-array-partition) |
 | [1301-number-of-paths-with-max-score](https://github.com/akhlu22/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Dynamic Programming
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/akhlu22/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/akhlu22/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
