@@ -15,6 +15,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/akhlu22/Leetcode/tree/master/0070-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/akhlu22/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 ## Matrix
 |  |
@@ -44,6 +45,7 @@
 | [0013-roman-to-integer](https://github.com/akhlu22/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/akhlu22/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/akhlu22/Leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/akhlu22/Leetcode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -107,4 +109,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akhlu22/Leetcode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/akhlu22/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
