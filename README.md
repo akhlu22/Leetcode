@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/akhlu22/Leetcode/tree/master/0066-plus-one) |
 | [0561-array-partition](https://github.com/akhlu22/Leetcode/tree/master/0561-array-partition) |
 | [1301-number-of-paths-with-max-score](https://github.com/akhlu22/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhlu22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akhlu22/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/akhlu22/Leetcode/tree/master/0013-roman-to-integer) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhlu22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhlu22/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/akhlu22/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/akhlu22/Leetcode/tree/master/0067-add-binary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhlu22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Trie
 |  |
 | ------- |
