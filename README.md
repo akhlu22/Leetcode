@@ -13,15 +13,18 @@
 | [0561-array-partition](https://github.com/akhlu22/Leetcode/tree/master/0561-array-partition) |
 | [1301-number-of-paths-with-max-score](https://github.com/akhlu22/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhlu22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhlu22/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/akhlu22/Leetcode/tree/master/0070-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/akhlu22/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhlu22/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Matrix
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/akhlu22/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhlu22/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +77,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhlu22/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhlu22/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhlu22/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Linked List
 |  |
 | ------- |
