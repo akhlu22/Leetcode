@@ -1,23 +1,31 @@
 var isValid = function(s) {
-    let stack = [];
+    const stack = [];
 
     for (let ch of s) {
 
-        if (ch === '(' || ch === '{' || ch === '[') {
+        // Opening brackets
+        if (ch === '(' || ch === '[' || ch === '{') {
             stack.push(ch);
-        } 
+        }
+
+        // Closing brackets
         else {
-            let top = stack.pop();
+            if (stack.length === 0) {
+                return false;
+            }
+
+            const top = stack.pop();
 
             if (
                 (ch === ')' && top !== '(') ||
-                (ch === '}' && top !== '{') ||
-                (ch === ']' && top !== '[')
+                (ch === ']' && top !== '[') ||
+                (ch === '}' && top !== '{')
             ) {
                 return false;
             }
         }
     }
 
+    // Stack must be empty
     return stack.length === 0;
 };
