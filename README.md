@@ -17,6 +17,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/akhlu22/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/akhlu22/Leetcode/tree/master/0070-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/akhlu22/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhlu22/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -57,6 +58,7 @@
 | [0013-roman-to-integer](https://github.com/akhlu22/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akhlu22/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/akhlu22/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/akhlu22/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhlu22/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/akhlu22/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/akhlu22/Leetcode/tree/master/0067-add-binary) |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/akhlu22/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/akhlu22/Leetcode/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akhlu22/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhlu22/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhlu22/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -155,4 +158,8 @@
 | [0100-same-tree](https://github.com/akhlu22/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/akhlu22/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhlu22/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/akhlu22/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
