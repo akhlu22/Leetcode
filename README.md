@@ -14,6 +14,7 @@
 | [0561-array-partition](https://github.com/akhlu22/Leetcode/tree/master/0561-array-partition) |
 | [1301-number-of-paths-with-max-score](https://github.com/akhlu22/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhlu22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akhlu22/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhlu22/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhlu22/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akhlu22/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/akhlu22/Leetcode/tree/master/0561-array-partition) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akhlu22/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhlu22/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akhlu22/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/akhlu22/Leetcode/tree/master/0035-search-insert-position) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/akhlu22/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhlu22/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
