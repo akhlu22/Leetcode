@@ -81,6 +81,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akhlu22/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhlu22/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhlu22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/akhlu22/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
