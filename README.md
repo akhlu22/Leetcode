@@ -18,6 +18,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/akhlu22/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhlu22/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhlu22/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akhlu22/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akhlu22/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@
 | [0001-two-sum](https://github.com/akhlu22/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/akhlu22/Leetcode/tree/master/0013-roman-to-integer) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhlu22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akhlu22/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -201,4 +203,12 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhlu22/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akhlu22/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akhlu22/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
