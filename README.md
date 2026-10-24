@@ -69,6 +69,7 @@
 | [0066-plus-one](https://github.com/akhlu22/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/akhlu22/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/akhlu22/Leetcode/tree/master/0070-climbing-stairs) |
+| [2409-count-days-spent-together](https://github.com/akhlu22/Leetcode/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/akhlu22/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akhlu22/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhlu22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/akhlu22/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/akhlu22/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
