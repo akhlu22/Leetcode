@@ -21,6 +21,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhlu22/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhlu22/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/akhlu22/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3693-climbing-stairs-ii](https://github.com/akhlu22/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akhlu22/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
@@ -33,6 +34,7 @@
 | [0678-valid-parenthesis-string](https://github.com/akhlu22/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/akhlu22/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akhlu22/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3693-climbing-stairs-ii](https://github.com/akhlu22/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
 |  |
 | ------- |
