@@ -14,6 +14,7 @@
 | [0118-pascals-triangle](https://github.com/akhlu22/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/akhlu22/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akhlu22/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/akhlu22/Leetcode/tree/master/0136-single-number) |
 | [0561-array-partition](https://github.com/akhlu22/Leetcode/tree/master/0561-array-partition) |
 | [1301-number-of-paths-with-max-score](https://github.com/akhlu22/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akhlu22/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akhlu22/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/akhlu22/Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
