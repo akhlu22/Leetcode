@@ -48,6 +48,7 @@
 | [0678-valid-parenthesis-string](https://github.com/akhlu22/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/akhlu22/Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akhlu22/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/akhlu22/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0067-add-binary](https://github.com/akhlu22/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/akhlu22/Leetcode/tree/master/0070-climbing-stairs) |
 | [2409-count-days-spent-together](https://github.com/akhlu22/Leetcode/tree/master/2409-count-days-spent-together) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/akhlu22/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## String
 |  |
 | ------- |
